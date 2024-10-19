@@ -22,11 +22,11 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 }
 
 //global.pairingNumber = "92xxx_number" //put your bot number here
-global.botNumber = '923051391007' //put your bot number here
+global.botNumber = '2250708089440' //put your bot number here
 
-global.mods = ['923444844060', '923051391007']
-global.prems = ['923444844060', '923051391007']
-global.allowed = ['923444844060', '923051391007']
+global.mods = ['2250708089440', '2250141394097']
+global.prems = ['2250708089440', '2250141394097']
+global.allowed = ['2250708089440', '2250141394097']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -75,8 +75,8 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = 'GLOBAL-MD'
-global.author = 'GlobalTechInfo'
+global.packname = 'FOR HER ❤️✨'
+global.author = '♕❦𝙰𝚗𝚐𝚎𝚕𝚔𖣔☬'
 global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/global.techinfo'
 global.dygp = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
